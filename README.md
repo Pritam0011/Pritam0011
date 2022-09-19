@@ -1,3 +1,5 @@
+![Alt Text](https://raw.githubusercontent.com/Pritam0011/demo_test2/master/g2.gif)
+
 <h1 align="center">Hi 👋, I'm Pritam Samanta</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
@@ -8,6 +10,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/14UZd2fJQDFDmqjtz4jlyXGZfay9GHvQ1/view](https://drive.google.com/file/d/14UZd2fJQDFDmqjtz4jlyXGZfay9GHvQ1/view)
 
 - ⚡ Fun fact **I think I am funny 🤓**
+
+<img align="right" alt="Pritam" width="400" src="https://raw.githubusercontent.com/Pritam0011/demo_test2/master/g1.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
