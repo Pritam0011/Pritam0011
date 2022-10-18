@@ -11,7 +11,7 @@
 
 <img align="right" alt="Pritam" width="400" src="https://raw.githubusercontent.com/Pritam0011/demo_test2/master/g1.gif">
 
-- ⚡ Fun fact **I think I am funny 🤓**
+- ⚡ Fun fact   **Do you know: Keyboard never Sleeps....👀Because it has Two Shifts..🤓**
 
 
 
