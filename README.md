@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pritamsamanta973@gmail.com**
 
-- 📄 Know about my experiences [view CV](https://drive.google.com/file/d/14UZd2fJQDFDmqjtz4jlyXGZfay9GHvQ1/view)
+- 📄 Know about my experiences [view CV](https://drive.google.com/file/d/1-Ld5ezE3Vx4gzD7dGE_fXNBBCXk6jxWF/view?usp=share_link)
 
 <img align="right" alt="Pritam" width="400" src="https://raw.githubusercontent.com/Pritam0011/demo_test2/master/g1.gif">
 
