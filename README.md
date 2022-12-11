@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Samanta</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 👨‍💻 Some of my projects are available at [Pritam Web](https://pritam-web.herokuapp.com/)
+- 👨‍💻 Some of my projects are available at [Pritam Web](https://www.pritamweb.live/)
 
 - 📫 How to reach me **pritamsamanta973@gmail.com**
 
